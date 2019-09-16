@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tabel data diri </title>
+	<title>Tabel data diri arek undika</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
